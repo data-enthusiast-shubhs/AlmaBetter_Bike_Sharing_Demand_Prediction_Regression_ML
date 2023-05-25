@@ -8,7 +8,7 @@ The original dataset used in this project is obtained from a bike sharing compan
 
 ## Approach
 The following steps were followed in the project:
-
+ 
 **Data Preprocessing**: The dataset was preprocessed and cleaned to handle missing values, outliers, and any inconsistencies in the data.
 
 **Data Split**: The preprocessed data was split into training and test sets. The training set was used to train our machine learning model, while the test set was used for evaluation.
