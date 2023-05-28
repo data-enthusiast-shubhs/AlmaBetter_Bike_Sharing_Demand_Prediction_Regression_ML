@@ -3,7 +3,7 @@
 
 This repository contains a machine learning project aimed at predicting the demand for bikes in a bike sharing system. Accurately forecasting bike demand can help optimize inventory and pricing strategies for bike rental companies. In this project, we develop a regression supervised machine learning model to predict bike demand in a given time period.
 
-## Dataset
+## Dataset  
 The original dataset used in this project is obtained from a bike sharing company and includes information such as the number of bikes rented, the date and time of the rental, and various weather and seasonality features. Additionally, relevant factors that could impact bike demand, such as holidays and functioning or non-functioning days, are included.
 
 ## Approach
